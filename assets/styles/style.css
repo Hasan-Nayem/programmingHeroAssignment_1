@@ -104,9 +104,8 @@
 }
 .plan-desc{
     font-weight: 500;
-    font-size: 25px;
+    font-size: 20px;
     color: #737272;
-    text-align: center;
 }
 .section-call{
     margin-top: 130px;
@@ -137,6 +136,7 @@
 }
 .footer{
     margin-top: 130px;
+    padding-bottom: 130px;
     width: 100%;
     background-color:#151414;
 }
